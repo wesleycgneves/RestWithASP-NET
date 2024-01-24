@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o4Rjr2/uHfUb1AZXzf7/YiunTtYMunLzMslPBqgP7AFzNYgKDV6OwfRJbuglqDm1T/7exVCvTCDGz8zQxqOskQ==",
+  "dgSpecHash": "hD3MoOl0IRoVz759uKyEu63KJ0QpGL+Q/3WzQeXxsv0lPtNmhFpUA7goUHmLsKfUMsq1VWcookeDVC7GzKHn2Q==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\RestWithASP-NET\\00_RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+  "projectFilePath": "C:\\Projetos\\RestWithASP-NET_Calculadora\\00_RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\RestWithASP-NET\\00_RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+      "projectUniqueName": "C:\\Projetos\\RestWithASP-NET_Calculadora\\00_RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
       "projectName": "RestWithASP-NET",
-      "projectPath": "C:\\Projetos\\RestWithASP-NET\\00_RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
+      "projectPath": "C:\\Projetos\\RestWithASP-NET_Calculadora\\00_RestWithASP-NET\\RestWithASP-NET\\RestWithASP-NET.csproj",
       "packagesPath": "C:\\Users\\WesleyNeves\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\RestWithASP-NET\\00_RestWithASP-NET\\RestWithASP-NET\\obj\\",
+      "outputPath": "C:\\Projetos\\RestWithASP-NET_Calculadora\\00_RestWithASP-NET\\RestWithASP-NET\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
